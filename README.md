@@ -1,45 +1,118 @@
-# AgeOfMinesCliente
+# AgeOfMinesCliente.
 Servidor medieval de dos colgaos. Aqui se subirá la información para poder ejecutar el cliente.
 
-Notas:
+## Trabajo por hacer.
 
-He visto que hay un acero del Ancient Warfare. Ese podría ser el “precursor” del acero soulforged (el tocho) del Better With Mods.
+ - [ ] Pasar lista de mods
+ - [ ] Ajustar lista de mods con respecto a lom que se pensó
+ - [ ] Revisar lista de paquete vanila funcional
+ - [ ] Lista de mods de los creadores del AW2
+ - [ ] Cerrar lista de mods
+ - [ ] Crear servidor ejecutable
+ - [ ] Se evaluaran más tareas
 
-A pesar de ser un mod con una progresión muy interesante, el acero soulforged del Better With Mods no es la gran cosa a nivel de stats. He aquí las propuestas para hacerlo un material de “lategame”:
-Quitar mending tal que la durabilidad adicional del soulforged steel rente mas. 
-La mesa de encantamientos “especial” del Better With Mods que se hace con soulforged steel es un poco caca y no merece la pena. Podemos meter el mod de Enchanting Plus (el de elegir tus encantamientos) y hacer que esa mesa se craftee con el soulforged steel.
-La armadura de soulforged steel es más tocha que la de diamante, esa la dejaba como esta. Hay armaduras del Epic Knights similares a la de diamante (con un poco menos de toughness quizás), y mucho más baratas. Podríamos requerir que esas armaduras requieran soulforged steel para su crafteo (uno o dos lingotes)
-Finalmente, buscar cosas de late y meterles la restricción de soulforged steel.
+## Notas de interés.
 
-Las armas del epic knights pintan bastante meh, no incluyen nuevas mecánicas. Yo las quitaba (se quitan fácilmente en el config)
-LAS ARMADURAS DEL EPIC KNIGHT NO SON ENCANTABLES
-Bajar el large biomes un poco. Incluir bloques especiales en la gen del AW2 (QUIZAS QUITAR EL BIOMES O PLENTY)
-Configurar el enchanting plus
-Nerfear el rapier del spartans
-Too many villages => Reduced spawn rate (maybe too few towns, check flying??)
-Oceanic world, and too cold => Tried to toggle, see results
-El config del EB se sobreescribe
-Por defecto, Las torres spawnean, pero los altares tambien
-Nerfear spawnrate de polvos magicos, dejar solo hechizos en estructuras
-Pregen scan needed
-Aesthetic mod for overworld
-ADVANCED ENCHANTMENT TABLE IN STRUCTURES!!
+ - He visto que hay un acero del Ancient Warfare. Ese podría ser el “precursor” del acero soulforged (el tocho) del Better With Mods.
+ - A pesar de ser un mod con una progresión muy interesante, el acero soulforged del Better With Mods no es la gran cosa a nivel de stats. He aquí las propuestas para hacerlo un material de “lategame”:
+ - Quitar mending tal que la durabilidad adicional del soulforged steel rente mas. 
+ - La mesa de encantamientos “especial” del Better With Mods que se hace con soulforged steel es un poco caca y no merece la pena. Podemos meter el mod de Enchanting Plus (el de elegir tus encantamientos) y hacer que esa mesa se craftee con el soulforged steel.
+ - La armadura de soulforged steel es más tocha que la de diamante, esa la dejaba como esta. Hay armaduras del Epic Knights similares a la de diamante (con un poco menos de toughness quizás), y mucho más baratas. Podríamos requerir que esas armaduras requieran soulforged steel para su crafteo (uno o dos lingotes)
+ - Finalmente, buscar cosas de late y meterles la restricción de soulforged steel.
+ - Las armas del epic knights pintan bastante meh, no incluyen nuevas mecánicas. Yo las quitaba (se quitan fácilmente en el config)
+ - LAS ARMADURAS DEL EPIC KNIGHT NO SON ENCANTABLES
+ - Bajar el large biomes un poco. Incluir bloques especiales en la gen del AW2 (QUIZAS QUITAR EL BIOMES O PLENTY)
+ - Configurar el enchanting plus
+ - Nerfear el rapier del spartans
+ - Too many villages => Reduced spawn rate (maybe too few towns, check flying??)
+ - Oceanic world, and too cold => Tried to toggle, see results
+ - El config del EB se sobreescribe
+ - Por defecto, Las torres spawnean, pero los altares tambien
+ - Nerfear spawnrate de polvos magicos, dejar solo hechizos en estructuras
+ - Pregen scan needed
+ - Aesthetic mod for overworld
+ - ADVANCED ENCHANTMENT TABLE IN STRUCTURES!!
+ - Added Traverse, more vanilla-like, works better
+ - Leave biome size 6 for proper structure spawning
+ - MO creatures instead of ZAWA
+ - Finish recommended list
+ - Add explorationcraft
+ - https://www.reddit.com/r/feedthebeast/comments/8v01px/climate_controlgeographicraft_adding_biomes/
+ - Cliff beach
+ - Maybe disable “boring” forests
 
-Added Traverse, more vanilla-like, works better
-Leave biome size 6 for proper structure spawning
-MO creatures instead of ZAWA
+## Lista tentativa de mods
 
-Finish recommended list
-Add explorationcraft
+ - [ ] Ancient Warfare 2
+ - [ ] Better with Mods
+ - [ ] Posibles mecánicas hardcore??
+ - [ ] Better With Addons
+ - [ ] Biomes O Plenty
+ - [ ] Geographicraft (Distribución climática realista)
+ - [ ] Realistic Terrain Generation 
+ - [ ] Valkyrien Skies (Maquinas voladoras)
+ - [ ] Pam’s Harvestcraft (Plantas y comida)
+ - [ ] Rustic (Alcoholes y cositas medievales)
+ - [ ] Spartan’s Weaponry (armas medievales vanilla-like))
+ - [ ] Spartan’s Compatibility
+ - [ ] Tropicraft
+ - [ ] Waystones
+ - [ ] Nutrition
+ - [ ] Better caves and mineshafts
+ - [ ] No incluye curseforge, tienes que meterlo manualmente:     https://github.com/WesCook/Nutrition
+ - [ ] Vanity Armor
+ - [ ] Hardcore Darkness
+ - [ ] World’s Trustworthy Floppas
+ - [ ] Chisel
+ - [ ] Cathedral Mod
+ - [ ] Quark
+ - [ ] Astikor Carts
+ - [ ] NEI
+ - [ ] JourneyMap
+ - [ ] WAILA
 
-https://www.reddit.com/r/feedthebeast/comments/8v01px/climate_controlgeographicraft_adding_biomes/
+### A espera de evaluación
+ - [ ] Serene Seasons ??
+ - [ ] Interaccion con pams harvestcraft
+ - [ ] Mod de oscuridad absoluta ??
+ - [ ] Mod de pociones ??
+ - [ ] Mod de encantamientos ??
+ - [ ] Reliquary ??
+ - [ ] Mobs??
+ - [ ] Mod de caballos??
 
-Cliff beach
-Maybe disable “boring” forests
+
+### Enlaces nuevos mods
+ - [ ] https://www.minecrafteo.com/dawn-of-time-mod/
+ - [ ] https://www.minecrafteo.com/horse-cart-mod/
+ - [ ] https://www.minecrafteo.com/simply-coffee-mod/
+ - [ ] https://www.minecrafteo.com/placeable-items-mod/
+ - [ ] https://www.minecrafteo.com/ham-n-cheese-mod/
+ - [ ] https://www.minecrafteo.com/project-brazier-mod/
+ - [ ] https://www.minecrafteo.com/locks-mod/
+ - [ ] https://www.minecrafteo.com/medieval-decoration-mod/
+
+ - [ ] https://www.minecrafteo.com/reap-mod/
+ - [ ] https://www.minecrafteo.com/wishing-for-sunshine-mod/
+ - [ ] https://www.minecrafteo.com/camels-mod/
+ - [ ] https://www.minecrafteo.com/better-nether-mod-para-minecraft-1-12/
+ - [ ] https://www.minecrafteo.com/cathedral-mod-para-minecraft-1-12/
+ - [ ] https://www.minecrafteo.com/zoo-wild-animals-mod/
+ - [ ] https://www.minecrafteo.com/penguins-mod/
+ - [ ] https://www.minecrafteo.com/leather-works-mod/
+ - [ ] https://www.minecrafteo.com/cute-hamster-mod/
+ - [ ] https://www.curseforge.com/minecraft/mc-mods/ewewukeks-musket-mod/
+ - [ ] https://www.minecrafteo.com/missing-pieces-mod/
+ - [ ] https://www.minecrafteo.com/bibliocraft-mod/
+ - [ ] https://www.curseforge.com/minecraft/mc-mods/guinea-pigs
+ - [ ] https://www.minecrafteo.com/natures-compass-mod/
+ - [ ] https://www.minecrafteo.com/additional-lanterns-mod/
+ - [ ] https://www.minecrafteo.com/advanced-chimneys-mod/
 
 
+## Estudio de configuración de mods
 
-HC Mechanics
+### HC Mechanics
 HC Spawn: on
 HC Hunger: off
 HC Beacons: off
@@ -50,84 +123,9 @@ HC Beds: off
 Bonemeal: off
 Brewing: off
 
+## Desarrollo de conceptos e ideas.
 
-
-Lista tentativa de mods
-
-Ancient Warfare 2
-Better with Mods
-Posibles mecánicas hardcore??
-Better With Addons
-Biomes O Plenty
-Geographicraft (Distribución climática realista)
-Realistic Terrain Generation 
-Valkyrien Skies (Maquinas voladoras)
-Pam’s Harvestcraft (Plantas y comida)
-Rustic (Alcoholes y cositas medievales)
-Spartan’s Weaponry (armas medievales vanilla-like))
-Spartan’s Compatibility
-Tropicraft
-Waystones
-Nutrition
-Better caves and mineshafts
-No incluye curseforge, tienes que meterlo manualmente:     https://github.com/WesCook/Nutrition
-Vanity Armor
-Hardcore Darkness
-World’s Trustworthy Floppas
-Chisel
-Cathedral Mod
-Quark
-Astikor Carts
-NEI
-JourneyMap
-WAILA
-
-A espera de evaluación
-Serene Seasons ??
-Interaccion con pams harvestcraft
-Mod de oscuridad absoluta ??
-Mod de pociones ??
-Mod de encantamientos ??
-Reliquary ??
-Mobs??
-Mod de caballos??
-
-
-Enlaces nuevos mods
-https://www.minecrafteo.com/dawn-of-time-mod/
-https://www.minecrafteo.com/horse-cart-mod/
-https://www.minecrafteo.com/simply-coffee-mod/
-https://www.minecrafteo.com/placeable-items-mod/
-https://www.minecrafteo.com/ham-n-cheese-mod/
-https://www.minecrafteo.com/project-brazier-mod/
-https://www.minecrafteo.com/locks-mod/
-https://www.minecrafteo.com/medieval-decoration-mod/
-
-https://www.minecrafteo.com/reap-mod/
-https://www.minecrafteo.com/wishing-for-sunshine-mod/
-https://www.minecrafteo.com/camels-mod/
-https://www.minecrafteo.com/better-nether-mod-para-minecraft-1-12/
-https://www.minecrafteo.com/cathedral-mod-para-minecraft-1-12/
-https://www.minecrafteo.com/zoo-wild-animals-mod/
-https://www.minecrafteo.com/penguins-mod/
-https://www.minecrafteo.com/leather-works-mod/
-https://www.minecrafteo.com/cute-hamster-mod/
-https://www.curseforge.com/minecraft/mc-mods/ewewukeks-musket-mod/
-https://www.minecrafteo.com/missing-pieces-mod/
-https://www.minecrafteo.com/bibliocraft-mod/
-https://www.curseforge.com/minecraft/mc-mods/guinea-pigs
-https://www.minecrafteo.com/natures-compass-mod/
-https://www.minecrafteo.com/additional-lanterns-mod/
-https://www.minecrafteo.com/advanced-chimneys-mod/
-
-
-
-
-
-Mecánica de leveleo de ciudades:
-
-
-
+### Mecánica de leveleo de ciudades:
 
 Para incentivar la creación de ciudades por todo el territorio del mapa, cada jugador recibirá recompensas (dependientes del bioma) al construir Y subir de nivel su propia ciudad (en principio, cada jugador tendrá asignada UNA ciudad). 
 
@@ -139,7 +137,7 @@ Al estar las estructuras sujetas a cierto grado de interpretación sobre su natu
 
 Sin más dilación, los niveles:
 
-Poblado (Edad Feudal, Alto Medievo)
+### Poblado (Edad Feudal, Alto Medievo)
 
 1 edificio principal administrativo (ayuntamiento, castillito, casa del jefe..)
 1 sitio religioso (templo, iglesia, altar..)
@@ -150,7 +148,7 @@ Los sitios de producción son aquellos que utilizan ciudadanos del Ancient Warfa
 
 
 
-Ciudad  (Edad de Los Castillos, Bajo Medievo)
+### Ciudad  (Edad de Los Castillos, Bajo Medievo)
 
 1 edificio principal administrativo (ayuntamiento, castillito, casa del jefe..)
 1 sitio religioso (templo, iglesia, altar..)
@@ -170,7 +168,7 @@ Quizás construir la ciudad podría desbloquear el Soul Steel (el material de la
 Quizás construir una ciudad podría permitir a su fundador construir otro poblado.
 
 
-Metrópolis (Edad Imperial, Edad Moderna)
+### Metrópolis (Edad Imperial, Edad Moderna)
 
 
 1 edificio principal administrativo (ayuntamiento, castillito, casa del jefe)
@@ -196,7 +194,7 @@ Quizás construir una metrópolis permite a su fundador construir otro poblado a
 
 
 
-Metrópolis + Maravilla
+### Metrópolis + Maravilla
 
 Igual que metrópolis, más: 
 1 beacon completo de bloques de soulsteel del Better With Mods 
@@ -223,12 +221,9 @@ La recompensa es que el Rey del primer Reino que consiga la maravilla se vuelve 
 
  El que gane el conflicto, se vuelve Emperador, pero ello no implica que los otros Candidatos a Emperador deban renunciar a su Candidatura. Es decir, pasado un tiempo puede volver a intentar ser Emperador.
 
-
-
 Variedad
 Tipo de bloque 
 Mejoras
 Alternativa a
 
 toroquest
-
