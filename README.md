@@ -43,32 +43,32 @@ Servidor medieval de dos colgaos. Aqui se subirá la información para poder eje
 
 ## Lista tentativa de mods
 
- - [ ] Ancient Warfare 2
- - [ ] Better with Mods
- - [ ] Posibles mecánicas hardcore??
- - [ ] Better With Addons
- - [ ] Biomes O Plenty
- - [ ] Geographicraft (Distribución climática realista)
- - [ ] Realistic Terrain Generation 
- - [ ] Valkyrien Skies (Maquinas voladoras)
- - [ ] Pam’s Harvestcraft (Plantas y comida)
- - [ ] Rustic (Alcoholes y cositas medievales)
- - [ ] Spartan’s Weaponry (armas medievales vanilla-like))
- - [ ] Spartan’s Compatibility
- - [ ] Tropicraft
- - [ ] Waystones
+ - [x] Ancient Warfare 2
+ - [x] Better with Mods
+ - [x] Posibles mecánicas hardcore??
+ - [ ] <ins>Better With Addons</ins>
+ - [ ] ~~Biomes O Plenty~~
+ - [x] Geographicraft (Distribución climática realista)
+ - [x] Realistic Terrain Generation 
+ - [x] Valkyrien Skies (Maquinas voladoras)
+ - [x] Pam’s Harvestcraft (Plantas y comida)
+ - [x] Rustic (Alcoholes y cositas medievales)
+ - [x] Spartan’s Weaponry (armas medievales vanilla-like))
+ - [x] Spartan’s Compatibility
+ - [x] Tropicraft
+ - [x] Waystones
  - [ ] Nutrition
  - [ ] Better caves and mineshafts
  - [ ] No incluye curseforge, tienes que meterlo manualmente:     https://github.com/WesCook/Nutrition
  - [ ] Vanity Armor
- - [ ] Hardcore Darkness
- - [ ] World’s Trustworthy Floppas
- - [ ] Chisel
- - [ ] Cathedral Mod
- - [ ] Quark
- - [ ] Astikor Carts
- - [ ] NEI
- - [ ] JourneyMap
+ - [x] Hardcore Darkness
+ - [x] World’s Trustworthy Floppas
+ - [x] Chisel
+ - [x] Cathedral Mod
+ - [x] Quark
+ - [x] Astikor Carts
+ - [x] NEI
+ - [x] JourneyMap
  - [ ] WAILA
 
 ### A espera de evaluación
