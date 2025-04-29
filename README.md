@@ -46,7 +46,7 @@ Servidor medieval de dos colgaos. Aqui se subirá la información para poder eje
  - [x] Ancient Warfare 2
  - [x] Better with Mods
  - [x] Posibles mecánicas hardcore??
- - [ ] <ins>Better With Addons</ins>
+ - [x] Better With Addons
  - [ ] ~~Biomes O Plenty~~
  - [x] Geographicraft (Distribución climática realista)
  - [x] Realistic Terrain Generation 
@@ -57,10 +57,9 @@ Servidor medieval de dos colgaos. Aqui se subirá la información para poder eje
  - [x] Spartan’s Compatibility
  - [x] Tropicraft
  - [x] Waystones
- - [ ] Nutrition
- - [ ] Better caves and mineshafts
- - [ ] No incluye curseforge, tienes que meterlo manualmente:     https://github.com/WesCook/Nutrition
- - [ ] Vanity Armor
+ - [ ] ~~Nutrition~~
+ - [ ] ~~Better caves and mineshafts~~
+ - [x] Vanity Armor
  - [x] Hardcore Darkness
  - [x] World’s Trustworthy Floppas
  - [x] Chisel
@@ -69,45 +68,43 @@ Servidor medieval de dos colgaos. Aqui se subirá la información para poder eje
  - [x] Astikor Carts
  - [x] NEI
  - [x] JourneyMap
- - [ ] WAILA
+ - [x] WAILA
 
 ### A espera de evaluación
- - [ ] Serene Seasons ??
+ - [x] Serene Seasons ??
  - [ ] Interaccion con pams harvestcraft
- - [ ] Mod de oscuridad absoluta ??
- - [ ] Mod de pociones ??
- - [ ] Mod de encantamientos ??
- - [ ] Reliquary ??
- - [ ] Mobs??
- - [ ] Mod de caballos??
+ - [x] Mod de oscuridad absoluta ??
+ - [x] Mod de pociones ??
+ - [x] Mod de encantamientos ??
+ - [x] Reliquary ??
+ - [x] Mobs??
+ - [x] Mod de caballos??
 
 
 ### Enlaces nuevos mods
- - [ ] https://www.minecrafteo.com/dawn-of-time-mod/
- - [ ] https://www.minecrafteo.com/horse-cart-mod/
- - [ ] https://www.minecrafteo.com/simply-coffee-mod/
- - [ ] https://www.minecrafteo.com/placeable-items-mod/
- - [ ] https://www.minecrafteo.com/ham-n-cheese-mod/
- - [ ] https://www.minecrafteo.com/project-brazier-mod/
- - [ ] https://www.minecrafteo.com/locks-mod/
- - [ ] https://www.minecrafteo.com/medieval-decoration-mod/
-
- - [ ] https://www.minecrafteo.com/reap-mod/
- - [ ] https://www.minecrafteo.com/wishing-for-sunshine-mod/
- - [ ] https://www.minecrafteo.com/camels-mod/
- - [ ] https://www.minecrafteo.com/better-nether-mod-para-minecraft-1-12/
- - [ ] https://www.minecrafteo.com/cathedral-mod-para-minecraft-1-12/
- - [ ] https://www.minecrafteo.com/zoo-wild-animals-mod/
- - [ ] https://www.minecrafteo.com/penguins-mod/
- - [ ] https://www.minecrafteo.com/leather-works-mod/
- - [ ] https://www.minecrafteo.com/cute-hamster-mod/
- - [ ] https://www.curseforge.com/minecraft/mc-mods/ewewukeks-musket-mod/
- - [ ] https://www.minecrafteo.com/missing-pieces-mod/
- - [ ] https://www.minecrafteo.com/bibliocraft-mod/
- - [ ] https://www.curseforge.com/minecraft/mc-mods/guinea-pigs
- - [ ] https://www.minecrafteo.com/natures-compass-mod/
- - [ ] https://www.minecrafteo.com/additional-lanterns-mod/
- - [ ] https://www.minecrafteo.com/advanced-chimneys-mod/
+ - [x] https://www.minecrafteo.com/dawn-of-time-mod/
+ - [x] https://www.minecrafteo.com/horse-cart-mod/
+ - [ ] ~~https://www.minecrafteo.com/simply-coffee-mod/~~
+ - [x] https://www.minecrafteo.com/placeable-items-mod/
+ - [ ] ~~https://www.minecrafteo.com/ham-n-cheese-mod/~~
+ - [ ] ~~https://www.minecrafteo.com/project-brazier-mod/~~
+ - [ ] ~~https://www.minecrafteo.com/locks-mod/~~
+ - [ ] ~~https://www.minecrafteo.com/medieval-decoration-mod/~~
+ - [x] https://www.minecrafteo.com/reap-mod/
+ - [x] https://www.minecrafteo.com/wishing-for-sunshine-mod/
+ - [x] https://www.minecrafteo.com/camels-mod/
+ - [x] https://www.minecrafteo.com/better-nether-mod-para-minecraft-1-12/
+ - [ ] ~~https://www.minecrafteo.com/zoo-wild-animals-mod/~~
+ - [ ] ~~https://www.minecrafteo.com/penguins-mod/~~
+ - [ ] ~~https://www.minecrafteo.com/leather-works-mod/~~
+ - [ ] ~~https://www.minecrafteo.com/cute-hamster-mod/~~
+ - [ ] ~~https://www.curseforge.com/minecraft/mc-mods/ewewukeks-musket-mod/~~
+ - [x] https://www.minecrafteo.com/missing-pieces-mod/
+ - [x] https://www.minecrafteo.com/bibliocraft-mod/
+ - [ ] ~~https://www.curseforge.com/minecraft/mc-mods/guinea-pigs~~
+ - [x] https://www.minecrafteo.com/natures-compass-mod/
+ - [x] https://www.minecrafteo.com/additional-lanterns-mod/
+ - [x] https://www.minecrafteo.com/advanced-chimneys-mod/
 
 
 ## Estudio de configuración de mods
