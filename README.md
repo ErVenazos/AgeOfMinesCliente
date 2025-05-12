@@ -5,8 +5,8 @@ Servidor medieval de dos colgaos. Aqui se subirá la información para poder eje
 
  - [ ] Pasar lista de mods
  - [x] Ajustar lista de mods con respecto a lom que se pensó
- - [ ] Revisar lista de paquete vanila funcional
- - [ ] Lista de mods de los creadores del AW2
+ - [x] Revisar lista de paquete vanila funcional
+ - [x] Lista de mods de los creadores del AW2
  - [ ] Cerrar lista de mods
  - [ ] Crear servidor ejecutable
  - [ ] Se evaluaran más tareas
@@ -15,14 +15,22 @@ Servidor medieval de dos colgaos. Aqui se subirá la información para poder eje
 
 ### Mods pricipales.
  - [ ] valkyrien-skies                  (https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies)
+ - [ ] ancient-warfare-2		(https://www.curseforge.com/minecraft/mc-mods/ancient-warfare-2-tweaked)
  - [ ] grimoire-of-gaia                 (https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia)
  - [ ] mowzies-mobs                     (https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
- - [ ] ftb-library-legacy-forge         (https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge)
+ - [ ] traverse-reforged                (https://www.curseforge.com/minecraft/mc-mods/traverse-reforged)
+ - [ ] apotheosis			(https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+ - [ ] better-with-mods			(https://www.curseforge.com/minecraft/mc-mods/bwm-suite)
+
 
 ### Mods secundarios.
  - [ ] advanced-chimneys                (https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
  - [ ] additional-lanterns              (https://www.curseforge.com/minecraft/mc-mods/additional-lanterns)
+ - [ ] astikor-carts			(https://www.curseforge.com/minecraft/mc-mods/astikorcarts)
  - [ ] better-railroads                 (https://www.curseforge.com/minecraft/mc-mods/better-railroads)
+ - [ ] better-builders-wands		(https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
+ - [ ] better-spartan-archery		(https://www.curseforge.com/minecraft/mc-mods/better-spartan-archery)
+
  - [ ] camels                           (https://www.curseforge.com/minecraft/mc-mods/camels)
  - [ ] enchantment-descriptions         (https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
  - [ ] bookworm                         (https://www.curseforge.com/minecraft/mc-mods/bookworm)
@@ -40,7 +48,6 @@ Servidor medieval de dos colgaos. Aqui se subirá la información para poder eje
  - [ ] dungeon-mobs-reborn              (https://www.curseforge.com/minecraft/mc-mods/dungeon-mobs-reborn)
  - [ ] ftb-utilities-forge              (https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-forge)
  - [ ] hwyla                            (https://www.curseforge.com/minecraft/mc-mods/hwyla)
- - [ ] better-builders-wands            (https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
  - [ ] reap-mod                         (https://www.curseforge.com/minecraft/mc-mods/reap-mod)
  - [ ] cosmetic-armor-reworked          (https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
  - [ ] dawn-of-time                     (https://www.curseforge.com/minecraft/mc-mods/dawn-of-time)
@@ -48,13 +55,20 @@ Servidor medieval de dos colgaos. Aqui se subirá la información para poder eje
  - [ ] betternether                     (https://www.curseforge.com/minecraft/mc-mods/betternether)
 
 ### Addons.
- - traverse-reforged            (https://www.curseforge.com/minecraft/mc-mods/traverse-reforged)
- - fermiumbooter                (https://www.curseforge.com/minecraft/mc-mods/fermiumbooter)
+ - ambient environment		(https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
  - jei                          (https://www.curseforge.com/minecraft/mc-mods/jei)
  - item-filters                 (https://www.curseforge.com/minecraft/mc-mods/item-filters)
- - supermartijn642s-core-lib    (https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
  - dynamic-surroundings         (https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
  - baubles                      (https://www.curseforge.com/minecraft/mc-mods/baubles)
+
+### Librerias.
+ - fermiumbooter                (https://www.curseforge.com/minecraft/mc-mods/fermiumbooter)
+ - supermartijn642s-core-lib    (https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
+ - apple-core
+ - ftb-library-legacy-forge     (https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge)
+ - auto-reg-lib
+
+
 
 ## Notas de interés.
 
