@@ -1,6 +1,11 @@
 # AgeOfMinesCliente.
 Servidor medieval de dos colgaos. Aqui se subirá la información para poder ejecutar el cliente.
 
+## Excel con la lista de mods
+
+https://docs.google.com/spreadsheets/d/1PMj5AUdGs9JD5Yt8Eujk24UhoQIHS38RWRo3cXo_B9w/edit?usp=sharing
+
+
 ## Trabajo por hacer.
 
  - [ ] Pasar lista de mods
