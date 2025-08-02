@@ -1,6 +1,10 @@
 # AgeOfMinesCliente.
 Servidor medieval de dos colgaos. Aqui se subirá la información para poder ejecutar el cliente.
 
+## UPDATE TOCHA:
+Se va a quitar el BTM y meter el Mettalurgy para tema de metales OP. 
+Las armas del SpartanWeaponry van regular con los soldados, pero las armas del Epic Knights van bien
+
 ## Excel con la lista de mods
 
 https://docs.google.com/spreadsheets/d/1PMj5AUdGs9JD5Yt8Eujk24UhoQIHS38RWRo3cXo_B9w/edit?usp=sharing
@@ -15,63 +19,6 @@ https://docs.google.com/spreadsheets/d/1PMj5AUdGs9JD5Yt8Eujk24UhoQIHS38RWRo3cXo_
  - [ ] Cerrar lista de mods
  - [ ] Crear servidor ejecutable
  - [ ] Se evaluaran más tareas
-
-## Lista de mods (Revisión)
-
-### Mods pricipales.
- - [ ] valkyrien-skies                  (https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies)
- - [ ] ancient-warfare-2		(https://www.curseforge.com/minecraft/mc-mods/ancient-warfare-2-tweaked)
- - [ ] grimoire-of-gaia                 (https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia)
- - [ ] mowzies-mobs                     (https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
- - [ ] traverse-reforged                (https://www.curseforge.com/minecraft/mc-mods/traverse-reforged)
- - [ ] apotheosis			(https://www.curseforge.com/minecraft/mc-mods/apotheosis)
- - [ ] better-with-mods			(https://www.curseforge.com/minecraft/mc-mods/bwm-suite)
-
-
-### Mods secundarios.
- - [ ] advanced-chimneys                (https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
- - [ ] additional-lanterns              (https://www.curseforge.com/minecraft/mc-mods/additional-lanterns)
- - [ ] astikor-carts			(https://www.curseforge.com/minecraft/mc-mods/astikorcarts)
- - [ ] better-railroads                 (https://www.curseforge.com/minecraft/mc-mods/better-railroads)
- - [ ] better-builders-wands		(https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
- - [ ] better-spartan-archery		(https://www.curseforge.com/minecraft/mc-mods/better-spartan-archery)
-
- - [ ] camels                           (https://www.curseforge.com/minecraft/mc-mods/camels)
- - [ ] enchantment-descriptions         (https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
- - [ ] bookworm                         (https://www.curseforge.com/minecraft/mc-mods/bookworm)
- - [ ] world-class-trustworthy-floppas  (https://www.curseforge.com/minecraft/mc-mods/world-class-trustworthy-floppas)
- - [ ] just-enough-harvestcraft         (https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft)
- - [ ] coralreef                        (https://www.curseforge.com/minecraft/mc-mods/coralreef)
- - [ ] mo-creatures                     (https://www.curseforge.com/minecraft/mc-mods/mo-creatures)
- - [ ] exotic-birds                     (https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
- - [ ] serene-seasons                   (https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
- - [ ] chisel                           (https://www.curseforge.com/minecraft/mc-mods/chisel)
- - [ ] corpse                           (https://www.curseforge.com/minecraft/mc-mods/corpse)
- - [ ] mmmmmmmmmmmm                     (https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
- - [ ] spartan-hud-baubles              (https://www.curseforge.com/minecraft/mc-mods/spartan-hud-baubles)
- - [ ] useful-backpacks                 (https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
- - [ ] dungeon-mobs-reborn              (https://www.curseforge.com/minecraft/mc-mods/dungeon-mobs-reborn)
- - [ ] ftb-utilities-forge              (https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-forge)
- - [ ] hwyla                            (https://www.curseforge.com/minecraft/mc-mods/hwyla)
- - [ ] reap-mod                         (https://www.curseforge.com/minecraft/mc-mods/reap-mod)
- - [ ] cosmetic-armor-reworked          (https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
- - [ ] dawn-of-time                     (https://www.curseforge.com/minecraft/mc-mods/dawn-of-time)
- - [ ] primitive-mobs                   (https://www.curseforge.com/minecraft/mc-mods/primitive-mobs)
- - [ ] betternether                     (https://www.curseforge.com/minecraft/mc-mods/betternether)
-
-### Addons.
- - ambient environment		(https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
- - jei                          (https://www.curseforge.com/minecraft/mc-mods/jei)
- - item-filters                 (https://www.curseforge.com/minecraft/mc-mods/item-filters)
- - dynamic-surroundings         (https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
- - baubles                      (https://www.curseforge.com/minecraft/mc-mods/baubles)
-
-### Librerias.
- - fermiumbooter                (https://www.curseforge.com/minecraft/mc-mods/fermiumbooter)
- - supermartijn642s-core-lib    (https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
- - apple-core
- - ftb-library-legacy-forge     (https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge)
- - auto-reg-lib
 
 
 
@@ -98,12 +45,11 @@ https://docs.google.com/spreadsheets/d/1PMj5AUdGs9JD5Yt8Eujk24UhoQIHS38RWRo3cXo_
  - ADVANCED ENCHANTMENT TABLE IN STRUCTURES!!
  - Added Traverse, more vanilla-like, works better
  - Leave biome size 6 for proper structure spawning
- - MO creatures instead of ZAWA
- - Finish recommended list
- - Add explorationcraft
- - https://www.reddit.com/r/feedthebeast/comments/8v01px/climate_controlgeographicraft_adding_biomes/
  - Cliff beach
- - Maybe disable “boring” forests
+ - Meter BARRELS
+ - Quitar mods superfluos
+ - 
+ 
 
 ## Lista tentativa de mods
 
@@ -183,6 +129,64 @@ HC Armor: experimentar
 HC Beds: off
 Bonemeal: off
 Brewing: off
+
+## Lista de mods (Revisión)
+
+### Mods pricipales.
+ - [ ] valkyrien-skies                  (https://www.curseforge.com/minecraft/mc-mods/valkyrien-skies)
+ - [ ] ancient-warfare-2		(https://www.curseforge.com/minecraft/mc-mods/ancient-warfare-2-tweaked)
+ - [ ] grimoire-of-gaia                 (https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia)
+ - [ ] mowzies-mobs                     (https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs)
+ - [ ] traverse-reforged                (https://www.curseforge.com/minecraft/mc-mods/traverse-reforged)
+ - [ ] apotheosis			(https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+ - [ ] better-with-mods			(https://www.curseforge.com/minecraft/mc-mods/bwm-suite)
+
+
+### Mods secundarios.
+ - [ ] advanced-chimneys                (https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
+ - [ ] additional-lanterns              (https://www.curseforge.com/minecraft/mc-mods/additional-lanterns)
+ - [ ] astikor-carts			(https://www.curseforge.com/minecraft/mc-mods/astikorcarts)
+ - [ ] better-railroads                 (https://www.curseforge.com/minecraft/mc-mods/better-railroads)
+ - [ ] better-builders-wands		(https://www.curseforge.com/minecraft/mc-mods/better-builders-wands)
+ - [ ] better-spartan-archery		(https://www.curseforge.com/minecraft/mc-mods/better-spartan-archery)
+
+ - [ ] camels                           (https://www.curseforge.com/minecraft/mc-mods/camels)
+ - [ ] enchantment-descriptions         (https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+ - [ ] bookworm                         (https://www.curseforge.com/minecraft/mc-mods/bookworm)
+ - [ ] world-class-trustworthy-floppas  (https://www.curseforge.com/minecraft/mc-mods/world-class-trustworthy-floppas)
+ - [ ] just-enough-harvestcraft         (https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft)
+ - [ ] coralreef                        (https://www.curseforge.com/minecraft/mc-mods/coralreef)
+ - [ ] mo-creatures                     (https://www.curseforge.com/minecraft/mc-mods/mo-creatures)
+ - [ ] exotic-birds                     (https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
+ - [ ] serene-seasons                   (https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+ - [ ] chisel                           (https://www.curseforge.com/minecraft/mc-mods/chisel)
+ - [ ] corpse                           (https://www.curseforge.com/minecraft/mc-mods/corpse)
+ - [ ] mmmmmmmmmmmm                     (https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
+ - [ ] spartan-hud-baubles              (https://www.curseforge.com/minecraft/mc-mods/spartan-hud-baubles)
+ - [ ] useful-backpacks                 (https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
+ - [ ] dungeon-mobs-reborn              (https://www.curseforge.com/minecraft/mc-mods/dungeon-mobs-reborn)
+ - [ ] ftb-utilities-forge              (https://www.curseforge.com/minecraft/mc-mods/ftb-utilities-forge)
+ - [ ] hwyla                            (https://www.curseforge.com/minecraft/mc-mods/hwyla)
+ - [ ] reap-mod                         (https://www.curseforge.com/minecraft/mc-mods/reap-mod)
+ - [ ] cosmetic-armor-reworked          (https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+ - [ ] dawn-of-time                     (https://www.curseforge.com/minecraft/mc-mods/dawn-of-time)
+ - [ ] primitive-mobs                   (https://www.curseforge.com/minecraft/mc-mods/primitive-mobs)
+ - [ ] betternether                     (https://www.curseforge.com/minecraft/mc-mods/betternether)
+
+### Addons.
+ - ambient environment		(https://www.curseforge.com/minecraft/mc-mods/ambient-environment)
+ - jei                          (https://www.curseforge.com/minecraft/mc-mods/jei)
+ - item-filters                 (https://www.curseforge.com/minecraft/mc-mods/item-filters)
+ - dynamic-surroundings         (https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
+ - baubles                      (https://www.curseforge.com/minecraft/mc-mods/baubles)
+
+### Librerias.
+ - fermiumbooter                (https://www.curseforge.com/minecraft/mc-mods/fermiumbooter)
+ - supermartijn642s-core-lib    (https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
+ - apple-core
+ - ftb-library-legacy-forge     (https://www.curseforge.com/minecraft/mc-mods/ftb-library-legacy-forge)
+ - auto-reg-lib
+
 
 ## Desarrollo de conceptos e ideas.
 
