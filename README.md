@@ -3,7 +3,7 @@ Servidor medieval de dos colgaos. Aqui se subirá la información para poder eje
 
 ## UPDATE TOCHA:
 Se va a quitar el BTM y meter el Mettalurgy para tema de metales OP. 
-Las armas del SpartanWeaponry van regular con los soldados, pero las armas del Epic Knights van bien
+Las armas del SpartanWeaponry van regular con los soldados (ya que los soldados solo entienden de armas que sean una extension de la clase de espada vanilla), pero las armas del Epic Knights van bien
 
 ## Excel con la lista de mods
 
