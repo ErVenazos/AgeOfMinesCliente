@@ -15,3 +15,5 @@ Los Siege Engineers no mueven las armas de asedio
 ## Trabajo NPCS
 
 Los NPCs de Granjas se quedan en bucle al tener Tierra Fertilizada en la granjas => Eliminado el BWM (También porque es complicao)
+La quarry rompe ores avanzados del Metallurgy 4 => Arreglar crafteo del upgrade
+La granja sólo acepta bonemeal (y no otros fertilizantes)
