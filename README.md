@@ -24,16 +24,7 @@ https://docs.google.com/spreadsheets/d/1PMj5AUdGs9JD5Yt8Eujk24UhoQIHS38RWRo3cXo_
 
 ## Notas de interés.
 
- - He visto que hay un acero del Ancient Warfare. Ese podría ser el “precursor” del acero soulforged (el tocho) del Better With Mods.
- - A pesar de ser un mod con una progresión muy interesante, el acero soulforged del Better With Mods no es la gran cosa a nivel de stats. He aquí las propuestas para hacerlo un material de “lategame”:
- - Quitar mending tal que la durabilidad adicional del soulforged steel rente mas. 
- - La mesa de encantamientos “especial” del Better With Mods que se hace con soulforged steel es un poco caca y no merece la pena. Podemos meter el mod de Enchanting Plus (el de elegir tus encantamientos) y hacer que esa mesa se craftee con el soulforged steel.
- - La armadura de soulforged steel es más tocha que la de diamante, esa la dejaba como esta. Hay armaduras del Epic Knights similares a la de diamante (con un poco menos de toughness quizás), y mucho más baratas. Podríamos requerir que esas armaduras requieran soulforged steel para su crafteo (uno o dos lingotes)
- - Finalmente, buscar cosas de late y meterles la restricción de soulforged steel.
- - Las armas del epic knights pintan bastante meh, no incluyen nuevas mecánicas. Yo las quitaba (se quitan fácilmente en el config)
- - LAS ARMADURAS DEL EPIC KNIGHT NO SON ENCANTABLES
- - Bajar el large biomes un poco. Incluir bloques especiales en la gen del AW2 (QUIZAS QUITAR EL BIOMES O PLENTY)
- - Configurar el enchanting plus
+
  - Nerfear el rapier del spartans
  - Too many villages => Reduced spawn rate (maybe too few towns, check flying??)
  - Oceanic world, and too cold => Tried to toggle, see results
@@ -41,19 +32,33 @@ https://docs.google.com/spreadsheets/d/1PMj5AUdGs9JD5Yt8Eujk24UhoQIHS38RWRo3cXo_
  - Por defecto, Las torres spawnean, pero los altares tambien
  - Nerfear spawnrate de polvos magicos, dejar solo hechizos en estructuras
  - Pregen scan needed
- - Aesthetic mod for overworld
- - ADVANCED ENCHANTMENT TABLE IN STRUCTURES!!
  - Added Traverse, more vanilla-like, works better
  - Leave biome size 6 for proper structure spawning
  - Cliff beach
- - Meter BARRELS
  - Quitar mods superfluos
  - Meter ProjectRed?
  - Temporadas de larga duración
  - Panes de aldeanos, mirar crafteo
  - Quitar tradeo aldeanos normales
- - Sustituir acero y crafteos por metales guapos
  - Meter tinkers => Solo smeltery, alloy maker para late
+ - Más progresión del tinkers con Tinker Alloy?
+ - Nefear crafteo del crusher
+ - ARTIFACTS => SHRINES
+ - EBW: sólo dejamos flores y quitamos ores. Crafteo para los cristales
+ - Los mobs spawnean pasic libremente
+ - COMO PREGENEAR DE FORMA EFICIENTE:
+	Poner worldborder center y worldborder set
+        /pregen start worldborder
+        Se continua automáticamente si crashea! => No es recomendable que crashee
+        Al expandir el worldborder, lee automaticamente los chunks ya generados
+
+ - Los ores spawnean bien => Comprobar ores unicos
+ - Cuevas polla RTG => Cuevas YUNG => Modificar spawneos de mobs (in control o config de cuevas)
+ - Bug generación de ciudades. Creo que es por crash. Evitar crasheos.
+ - Subido el requerimento de leveleo x2
+ - Configurar explorercraft, nutrition
+ - Double check large biomes
+ 
  
 
 ## Lista tentativa de mods

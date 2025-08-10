@@ -17,7 +17,11 @@ Los Siege Engineers no mueven las armas de asedio
 Los NPCs de Granjas se quedan en bucle al tener Tierra Fertilizada en la granjas => Eliminado el BWM (También porque es complicao)
 La quarry rompe ores avanzados del Metallurgy 4 => Arreglar crafteo del upgrade
 La granja sólo acepta bonemeal (y no otros fertilizantes)
-Quitar la receta del acero del AW2
+Quitar la receta del acero del AW2 
 Los NPCs suben de nivel adquiriendo más vida
 El equipamiento del NPC NO afecta a la productividad
 La fish farm pilla pescado del Harvestcraft :))
+TODO: Aumentar el trabajo de investigación, misiones para la producción masiva de items, quitar molinos...
+	Trabajo de investigación aumentado x10 (quizás x50) => Misiones para tecs iniciales
+	Output de los generadores mecánicos multiplicado por x0.2 (0.1 para molinos). Los gears requieren aceite ahora. Idle time de los trabajadores convertido de 50 ticks a 30 ticks
+        Hay que quitar el mine everything upgrade de alguna forma
