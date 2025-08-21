@@ -1,0 +1,39 @@
+Eliminado recetas de polvos tier 5 y 6, para ello hay que usar la smeltery con Thermita
+SPARTANS WEAPONERY NO APLICA EFFECTO
+Ahora el Crusher se craftea con Vulcanita
+Nueva receta para bonemeals (y potasio)
+
+
+Espadas:
+
+Platino: compatible con AW2 Y Fish's :)
+Heptazon: Roba equipamiento del AW2. Funciona con aldeanos
+Etherium: funciona en aldeanos
+Quicksilver: no funciona pero da rapidez
+Carmot: no funciona 
+Mithril: no hay daño adicional
+Black steel: al parecer funciona
+Vyxalite: funciona
+Oureclase: funciona
+Inloashite: no funciona
+
+Armadura:
+Vulcanite: no funciona
+Haderoth: no fire resist
+Platinum: funciona
+Ignatius: funciona
+Hepatizon: la invisibilidad no funciona con mobs
+Sanguinite: no funciona
+Desichalkos: ??
+Cerulase: fuego amigo
+Kalendrite: funciona
+Damascus: funciona
+Adamantine: funciona la segunda vida
+Prometheum: no funciona
+Electrum: problemente no
+Atlarus: funciona
+Black Steel: funciona
+Osmium: probablemente
+Orichalcum: funciona
+Shadow steel: funciona
+Krik: PUEDES VOLAR (pero es de late)

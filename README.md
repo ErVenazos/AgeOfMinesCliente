@@ -45,7 +45,7 @@ https://docs.google.com/spreadsheets/d/1PMj5AUdGs9JD5Yt8Eujk24UhoQIHS38RWRo3cXo_
  - Nefear crafteo del crusher
  - ARTIFACTS => SHRINES
  - EBW: sólo dejamos flores y quitamos ores. Crafteo para los cristales
- - Los mobs spawnean pasic libremente
+ - Los mobs spawnean libremente
  - COMO PREGENEAR DE FORMA EFICIENTE:
 	Poner worldborder center y worldborder set
         /pregen start worldborder
@@ -55,11 +55,33 @@ https://docs.google.com/spreadsheets/d/1PMj5AUdGs9JD5Yt8Eujk24UhoQIHS38RWRo3cXo_
  - Los ores spawnean bien => Comprobar ores unicos
  - Cuevas polla RTG => Cuevas YUNG => Modificar spawneos de mobs (in control o config de cuevas)
  - Bug generación de ciudades. Creo que es por crash. Evitar crasheos.
- - Subido el requerimento de leveleo x2
- - Configurar explorercraft, nutrition
+ - Subido el requerimento de leveleo de wands x2
+ - Configurado "explorercraft, nutrition"
  - Double check large biomes
+ - BANEO DEL ADVANCED UPGRADE
+ - Hacer la Progresioón
+ - Nota, se requiere termita para nivel 5 y 6
+ - Poner crusher tarde y desactivar crusheo de ores al 5 y 6, desactivar alloyer
+ - Ver bug que aparecen las recetas antiguas
+ - Spartans weaponry: arco con TNT muy fuerte. Progreso?
+ - Matchlock Mod?
+ - Mithril muy potente
+ - Apotheosis: encantamientos fuertes, pero requieren progreso. Quizás nerfeo
+ - Los encantamientos del crossbow no aparecen
+ - Menos vida inicial como tutorial para subir comida
+ - Como eliminar recetas:
+    - 1º Recipes remove
+    - 2º Recipe add shapeless/shaped
+ - Metido mod para subir mobcap (Increase mobs)
+ - Quizás tengamos que togglear los encantamientos de Knoweldge of the Ages    
+ - Dummy: meh
+ - Quitar caballos modded ==> DOUBLECHECK GENETICA
+ - Meter más MAR
+ - Meter crusher en PROGRESION
+ - PROGRESION: Maquinaria => Valkyries
+ - 
  
- 
+
 
 ## Lista tentativa de mods
 
