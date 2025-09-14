@@ -15,6 +15,9 @@ El trabuco gigante la polla.
 El igneniero apunta muy bien.
 Aumentado el rango de los arqueros x2
 Los NPCs no se relajan hasta que matan a alguien
+El cañon rompe ores!!
+El oileo no funciona bien con AW
+Flechas explosivas del QUARK
 
 
 
@@ -29,8 +32,9 @@ El equipamiento del NPC NO afecta a la productividad
 La fish farm pilla pescado del Harvestcraft :))
 TODO: Aumentar el trabajo de investigación, misiones para la producción masiva de items, quitar molinos...
 	Trabajo de investigación aumentado x10 (quizás x50) => Misiones para tecs iniciales
-	Output de los generadores mecánicos multiplicado por x0.2 (0.1 para molinos). Los gears requieren aceite ahora. Idle time de los trabajadores convertido de 50 ticks a 30 ticks
+	Output de los generadores mecánicos multiplicado por x0.2 (0.1 para molinos). Los shaft requieren aceite ahora. Los iron gears, acero. Idle time de los trabajadores convertido de 50 ticks a 30 ticks
         Hay que quitar el mine everything upgrade de alguna forma
+AW funciona con las plantas del Rustic (las de cropstakes requieren fruit farm)
 
 # Fortalezas
 

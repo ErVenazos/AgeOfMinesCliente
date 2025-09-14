@@ -56,30 +56,29 @@ https://docs.google.com/spreadsheets/d/1PMj5AUdGs9JD5Yt8Eujk24UhoQIHS38RWRo3cXo_
  - Cuevas polla RTG => Cuevas YUNG => Modificar spawneos de mobs (in control o config de cuevas)
  - Bug generación de ciudades. Creo que es por crash. Evitar crasheos.
  - Subido el requerimento de leveleo de wands x2
- - Configurado "explorercraft, nutrition"
+ - Configurado "explorercraft, SoL"
  - Double check large biomes
  - BANEO DEL ADVANCED UPGRADE
  - Hacer la Progresioón
  - Nota, se requiere termita para nivel 5 y 6
  - Poner crusher tarde y desactivar crusheo de ores al 5 y 6, desactivar alloyer
  - Ver bug que aparecen las recetas antiguas
- - Spartans weaponry: arco con TNT muy fuerte. Progreso?
- - Matchlock Mod?
+ - Spartans weaponry: QUITAR
  - Mithril muy potente
- - Apotheosis: encantamientos fuertes, pero requieren progreso. Quizás nerfeo
- - Los encantamientos del crossbow no aparecen
+ - Apotheosis: encantamientos fuertes, pero requieren progreso. QUITAR
  - Menos vida inicial como tutorial para subir comida
  - Como eliminar recetas:
     - 1º Recipes remove
     - 2º Recipe add shapeless/shaped
  - Metido mod para subir mobcap (Increase mobs)
- - Quizás tengamos que togglear los encantamientos de Knoweldge of the Ages    
  - Dummy: meh
- - Quitar caballos modded ==> DOUBLECHECK GENETICA
  - Meter más MAR
- - Meter crusher en PROGRESION
  - PROGRESION: Maquinaria => Valkyries
- - 
+ - Recuperar Tinkers como antes
+ - Metemos Project Red: Core, Expansion, Integration, Transmission
+ - Subido daño recibido por el jugador a un x1.5
+ - Modificar un par de recetas del project RED
+
  
 
 
