@@ -18,6 +18,9 @@ Los NPCs no se relajan hasta que matan a alguien
 El cañon rompe ores!!
 El oileo no funciona bien con AW
 Flechas explosivas del QUARK
+Las catapultas del AW reguleras
+Pitch upgrade para más rango
+Quizás bufar daño de maquinas de asedio (subir efecto mejora) BUFAR VELOCIDAD POR MAR
 
 
 

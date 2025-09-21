@@ -78,6 +78,9 @@ https://docs.google.com/spreadsheets/d/1PMj5AUdGs9JD5Yt8Eujk24UhoQIHS38RWRo3cXo_
  - Metemos Project Red: Core, Expansion, Integration, Transmission
  - Subido daño recibido por el jugador a un x1.5
  - Modificar un par de recetas del project RED
+ - Nerfeado spawn de prosperidad
+ - Nerfeados amuletos de mana (pero no mejoras)
+ - Remove chicken y mistical adaptations
 
  
 
